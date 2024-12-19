@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.4.0](https://github.com/pure-js/quiz-react-app/compare/v3.3.1...v3.4.0) (2024-07-10)
+
+
+### Features
+
+* add fallaback page ([4b41c3f](https://github.com/pure-js/quiz-react-app/commit/4b41c3fecc4c3e817ea299c4762d78914a058847))
+* add loading status ([8773b99](https://github.com/pure-js/quiz-react-app/commit/8773b99d38ff5ccdd179b063a003afbef12bbc4d))
+
 ### [3.3.1](https://www.github.com/js-quiz/code-quiz-react/compare/v3.3.0...v3.3.1) (2021-03-26)
 
 

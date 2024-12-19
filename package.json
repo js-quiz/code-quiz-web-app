@@ -1,6 +1,6 @@
 {
   "name": "code-quiz-react",
-  "version": "3.3.1",
+  "version": "3.4.0",
   "description": "Coding training app",
   "main": "src/index.tsx",
   "homepage": "https://pure-js.github.io/code-quiz-react/",
